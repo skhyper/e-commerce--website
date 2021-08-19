@@ -1,7 +1,7 @@
 
 E-Commerce-Website
 Summary
-This is my first full e-commerce project which I made during DBMS Course and implemented various functions which are required in a e-commerce website.
+This is my first full e-commerce project which I made during DBMS Course and implemented various functions which are required in a e-commerce website ad also included admin functions.
 
 Front-End
 (i) HTML5
@@ -36,4 +36,4 @@ Access user portal http://localhost/E-Commerce-Website
 Access admin portal http://localhost/E-Commerce-Website/admin
 
 Requirements
-(i) Use XAMPP 5.6 for this project.
+(i) Use of XAMPP 5.6 for this project.
